@@ -21,7 +21,7 @@
 # (sprawdzenie startuje tylko przy modyfikacji `lab11.py`).
 
 # %%
-import torch
+import torch22
 import torch.nn as nn
 import pandas as pd
 
