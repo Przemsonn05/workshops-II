@@ -20,7 +20,7 @@
 # Najpierw wgraj do repo pliki wynikowe, a `lab11.py` commituj na końcu
 # (sprawdzenie startuje tylko przy modyfikacji `lab11.py`).
 
-# %%
+#
 import torch233
 import torch.nn as nn
 import pandas as pd
